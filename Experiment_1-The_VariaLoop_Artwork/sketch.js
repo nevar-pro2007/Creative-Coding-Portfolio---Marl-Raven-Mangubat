@@ -10,7 +10,7 @@ function setup() {
   // Task 1: Change variable every time sketch runs 
   mainCol = color(random(100, 255), random(100, 200), 200); 
   
-  noLoop(); // We only need to draw this once for the pattern
+  noLoop(); // Drawing for the pattern
 }
 
 function draw() {
