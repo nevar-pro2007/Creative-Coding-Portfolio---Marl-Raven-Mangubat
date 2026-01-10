@@ -7,7 +7,7 @@ let mainCol;               // Controls color
 function setup() {
   createCanvas(600, 400);
   
-  // Extension Task 1: Change variable every time sketch runs [cite: 10]
+  // Task 1: Change variable every time sketch runs 
   mainCol = color(random(100, 255), random(100, 200), 200); 
   
   noLoop(); // We only need to draw this once for the pattern
@@ -34,7 +34,7 @@ function draw() {
   }
 
   // Task 1: Drawing the Shapes using Variables
-  // Large Circle (Shape 3)
+  // Large Circle 
   fill(mainCol);
   noStroke();
   ellipse(posX, posY, shapeSize, shapeSize); 
