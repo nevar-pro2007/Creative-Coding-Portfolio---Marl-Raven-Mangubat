@@ -1,6 +1,6 @@
 # Experiment 1: The VariaLoop Art
 
-## [Live Version] (https://nevar-pro2007.github.io/Creative-Coding-Portfolio---Marl-Raven-Mangubat/Experiment_1-The_VariaLoop_Artwork)
+## {Live Version} (https://nevar-pro2007.github.io/Creative-Coding-Portfolio---Marl-Raven-Mangubat/Experiment_1-The_VariaLoop_Artwork)
 
 ## Documentation
 
