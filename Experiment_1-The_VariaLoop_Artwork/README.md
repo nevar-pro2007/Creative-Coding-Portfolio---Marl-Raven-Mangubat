@@ -21,7 +21,7 @@ This is my first attempt at the artwork. It only included shapes which made the 
 This is the artwork for the variables mixed with loops.
 
 **Self-Reflection:**
-The most successful part of this sketch is the integration of Task 1 and Task 2 mixed together into a cohesive mosaic style. The use of the random() function to change the primary color upon every refresh fulfills the extension requirement while adding a generative feel to the work. If I were to work with it again and improve the code, I would definitely look into adding more variety within the loop perhaps using a conditional if statement to randomly decide whether to draw a line or a rectangle at each grid point. This would move the project further into the world of generative art by adding more unpredictability to the controlled structure. Overall, the sketch demonstrates a clear understanding of how variables drive visual output and how loops create rhythm.
+The most successful part of this sketch is the integration of Task 1 and Task 2 mixed together into a cohesive mosaic style. The use of the random function to change the primary color upon every refresh fulfills the extension requirement while adding a generative feel to the work. If I were to work with it again and improve the code, I would definitely look into adding more variety within the loop perhaps using a conditional if statement to randomly decide whether to draw a line or a rectangle at each grid point. This would move the project further into the world of generative art by adding more unpredictability to the controlled structure. Overall, the sketch demonstrates a clear understanding of how variables drive visual output and how loops create rhythm.
 
 **Word Count:**
 403 words
