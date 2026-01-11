@@ -6,7 +6,7 @@ let thickness = 2;       // Controls line weight
 
 function setup() {
   createCanvas(600, 400);
-  // Initializing color variable [cite: 8]
+  // Initializing color variable 
   shapeColor = color(100, 150, 200);
   background(240);
 }
@@ -48,7 +48,7 @@ function draw() {
   // Task 3: Interaction (Keyboard)
   // If a key is pressed, the size variable increases
   if (keyIsPressed) {
-    shapeSize = random(20, 100); // Extension: Variable change [cite: 10]
+    shapeSize = random(20, 100); // Extension: Variable change 
   }
 
   // Static Text for UI
